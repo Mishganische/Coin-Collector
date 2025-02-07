@@ -1,0 +1,13 @@
+# Unreal Engine specific ignores
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vscode/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
